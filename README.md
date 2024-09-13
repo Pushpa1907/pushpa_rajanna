@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pushpa Rajanna</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
-<img align="right" alt="coding" width="400" src= D:\DLO\Downloads\Capture.JPG
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=Animated%20coding%20gif%20for%20GitHub%20girl&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2Fformat%3Awebp%2F1*qdAW1TjCN57h1lbuuzvchg.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FMonalikaPatnaik%2FMonalikaPatnaik&docid=L2p6TvLeMTyXxM&tbnid=LOhuNzG-b0sdKM&vet=12ahUKEwilv7eLp7-IAxVlR2wGHcpAIf0QM3oECGUQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwilv7eLp7-IAxVlR2wGHcpAIf0QM3oECGUQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpa1907&label=Profile%20views&color=0e75b6&style=flat" alt="pushpa1907" /> </p>
 
