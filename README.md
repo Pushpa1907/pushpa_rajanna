@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpa1907&label=Profile%20views&color=0e75b6&style=flat" alt="pushpa1907" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpa1907" alt="pushpa1907" /></a> </p>
+
 - 🔭 I’m currently working on **Power BI**
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👯 I’m looking to collaborate on **SQL/POWER BI**
+
+- 📫 How to reach me **Pushparajanna19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
