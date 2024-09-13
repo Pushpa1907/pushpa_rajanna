@@ -1,7 +1,5 @@
-{![masterhead](https://www.google.com/imgres?q=Animated%20coding%20banner%20data%20analyst%20for%20girls&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1455958730%2Fvector%2Fdata-monitoring-and-analysis-on-desktop-tiny-people-with-magnifying-glass-research-graph.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DaL-XEnEBILCzi-qX_7tUn84FH7Ei_YoJTxlcGCY0Vb8%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fanalytics-cartoon&docid=3NUIodawJwgkzM&tbnid=XyMkDMPbL1iWrM&vet=12ahUKEwiL3o36qL-IAxU0XWwGHTj2D2UQM3oECGcQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwiL3o36qL-IAxU0XWwGHTj2D2UQM3oECGcQAA)
 <h1 align="center">Hi 👋, I'm Pushpa Rajanna</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=Animated%20coding%20gif%20for%20GitHub%20girl&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2Fformat%3Awebp%2F1*qdAW1TjCN57h1lbuuzvchg.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FMonalikaPatnaik%2FMonalikaPatnaik&docid=L2p6TvLeMTyXxM&tbnid=LOhuNzG-b0sdKM&vet=12ahUKEwilv7eLp7-IAxVlR2wGHcpAIf0QM3oECGUQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwilv7eLp7-IAxVlR2wGHcpAIf0QM3oECGUQAA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpa1907&label=Profile%20views&color=0e75b6&style=flat" alt="pushpa1907" /> </p>
 
@@ -13,13 +11,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpa1907&show_icons=true&locale=en&layout=compact" alt="pushpa1907" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpa1907&show_icons=true&locale=en" alt="pushpa1907" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpa1907&" alt="pushpa1907" /></p>
-l-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushpa1907&show_icons=true&locale=en&layout=compact" alt="pushpa1907" /></p>
 
